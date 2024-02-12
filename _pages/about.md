@@ -23,6 +23,6 @@ My research interests include but not noly limiting to
 * 深空探索
 
 
-## <font face=STKaiti>New!</font>
+## <font color = blue face=STKaiti>New!</font>
 
 
