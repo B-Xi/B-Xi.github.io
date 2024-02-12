@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## 研究方向1-----
+## 研究方向1
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -22,7 +22,7 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
-## 研究方向2-----
+## 研究方向2
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
