@@ -1,5 +1,5 @@
 ---
-permalink: /teams/
+permalink: /team/
 title: "My Team"
 author_profile: true
 redirect_from: 
