@@ -22,19 +22,19 @@ Editorial activity
 
 Reviewer
 ======
-**IEEE T-PAMI**，IEEE Transactions on Pattern Analysis and Machine Intelligence
+* **IEEE T-PAMI**，IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-**IEEE T-NNLS**，IEEE Transactions on Neural Networks and Learning Systems
+* **IEEE T-NNLS**，IEEE Transactions on Neural Networks and Learning Systems
 
-**IEEE T-CSVT**，IEEE Transactions on Circuits and Systems for Video Technology
+* **IEEE T-CSVT**，IEEE Transactions on Circuits and Systems for Video Technology
 
-**IEEE T-GRS**，IEEE Transactions on Geoscience and Remote Sensing
+* **IEEE T-GRS**，IEEE Transactions on Geoscience and Remote Sensing
 
-**IEEE J-STARS**，Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+* **IEEE J-STARS**，Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
-**Elsevier JAG-D**，
+* **Elsevier JAG-D**，
 
-**Pattern Recognition** 
+* **Pattern Recognition** 
 
 Project：
 ======
@@ -49,20 +49,6 @@ Award
 * 西安电子科技大学优秀毕业研究生干部,2022.06       
 * 第五届“互联网+”大学生创新创业大赛全国金奖,2019.09    
 * 第三届“互联网+”大学生创新创业大赛全国银奖/陕西省金奖,2017.09       
-<!-- 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-  
-<!-- International mobility
-======
-* 1
-
-Committees
-======
-* 1 -->
-
 
 
 
