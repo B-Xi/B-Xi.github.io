@@ -1,16 +1,18 @@
 # main links links
 main:
-  - title: "Blog Posts"
-    url: /year-archive/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Competitions"
+  - title: "Reasearch"
     url: /talks/    
 
-  - title: "Studying"
+  - title: "Education Experience"
     url: /teaching/
 
+  - title: "Awards"
+    url: /year-archive/
 
+  - title: "Guide"
+    url: /markdown/
 
