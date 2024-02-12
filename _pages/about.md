@@ -40,10 +40,6 @@ Competitions
 
 
 
-Skills
-======
-<p style="text-align:justify; text-justify:inter-ideograph;">Programming Capability | Innovation and Creativity | Team-Work Ability</p>
-
 Selected Blog Posts
 ======
 

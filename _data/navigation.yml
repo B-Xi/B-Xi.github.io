@@ -5,14 +5,14 @@ main:
     url: /publications/
 
   - title: "Reasearch"
-    url: /talks/    
+    url: /Reasearch/    
 
   - title: "Education Experience"
     url: /teaching/
 
   - title: "Awards"
-    url: /year-archive/
+    url: /talks/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "My team"
+    url: /team/
 
