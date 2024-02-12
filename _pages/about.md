@@ -40,14 +40,14 @@ My project experience：
 
 * I participated in the major project of Science and Technology Innovation 2030 "New Generation Artificial Intelligence": "Intelligent processing of rapid and accurate segmentation, detection, positioning, tracking and identification of multi-source heterogeneous sensing objects". (我参与科技创新2030“新一代人工智能”重大项目：“多源异构感知对象快速精准分割、检测、定位、 跟踪和识别的智能处理”。)
 
-Awards
+<!-- Awards
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 
-Publications
+My Publications
 ======
   <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
