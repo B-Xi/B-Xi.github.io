@@ -51,11 +51,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-  <ul>{% for post in site.publications %}
+  {% for post in site.publications %}
     {% if publications.star == "superior" %}
          {% include archive-single-cv.html %}
     {% endif %}
-  {% endfor %}</ul>
+  {% endfor %}
 
 
 
