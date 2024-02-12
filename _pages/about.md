@@ -16,6 +16,12 @@ My group is recruiting master students. If interested, please send your resume a
 
 
 
+Research Interest
+======
+My research interests include but not noly limiting to
+* 高光谱图像分类
+* 深空探索
+
 
 <font face=STKaiti>New!</font>
 

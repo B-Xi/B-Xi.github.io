@@ -23,11 +23,17 @@ Editorial activity
 Reviewer
 ======
 **IEEE T-PAMI**，IEEE Transactions on Pattern Analysis and Machine Intelligence
+
 **IEEE T-NNLS**，IEEE Transactions on Neural Networks and Learning Systems
+
 **IEEE T-CSVT**，IEEE Transactions on Circuits and Systems for Video Technology
+
 **IEEE T-GRS**，IEEE Transactions on Geoscience and Remote Sensing
+
 **IEEE J-STARS**，Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+
 **Elsevier JAG-D**，
+
 **Pattern Recognition** 
 
 Project：
