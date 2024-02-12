@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-CN"
-title                    : "Mingshuo Cai/Personal Homepage"
+title                    : "B-Xi Personal Homepage"
 title_separator          : "-"
-name                     : &name "Mingshuo Cai"
+name                     : &name "Bobo Xi"
 description              : &description "personal description"
-url                      : https://cfcys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://B-Xi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cfcys/cfycs.github.io"
+repository               : "B-Xi/B-Xi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cai-Mingshuo"
-  avatar           : "ppprofile.jpg"
-  bio              :  Senior in Intelligent Science and Technology, School of Artificial Intelligence, Xidian University"
+  name             : "Xi-Bobo"
+  avatar           : "MyProfile.jpg"
+  bio              :  "一句话简述"
   location         : "Xi'an,Shaanxi"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "caimingshoo@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=en"
+  email            : "xibobo@xidian.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cfcys"
+  github           : "B-Xi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "23237921/蔡明硕"
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "MingshuoCai"
+  twitter          :
   vine             :
   weibo            :
   xing             :
