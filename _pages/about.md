@@ -14,12 +14,6 @@ I'm also 空间中心
 
 
 
-<!-- I'm a third year undergraduate student from [School of Artifical Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/). My research interest includes computer vision, remote sensing image processing, and the interpretability of AI Security.
-
-I am very fortunate to be advised by [Bobo Xi](https://web.xidian.edu.cn/xibobo/) of [State Key Laboratory of Integrated Service Networks](https://isn.xidian.edu.cn/), School of Telecommunications Engineering, Xidian University.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
-
 Education Background
 ======
   <ul>{% for post in site.teaching %}
@@ -28,9 +22,16 @@ Education Background
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
+
+  <ul>{% for post in site.publications %}
+    {% if publications.star == "superior" %}
+         {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
+
 
 Competitions
 ======
