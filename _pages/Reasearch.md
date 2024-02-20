@@ -22,6 +22,7 @@ redirect_from:
         </td>
     </tr>
 </table>
+<br />
 
 <h3>Imbalance classification</h3>
 
@@ -32,10 +33,11 @@ redirect_from:
             <a href="https://ieeexplore.ieee.org/document/9924229">DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery</a>
             <br>  <b>Bobo Xi<b>, Jiaojiao Li, Yan Diao, Yunsong Li, Zan Li, Yan Huang, Jocelyn Chanussot
             <br><i> IEEE Transactions on Circuits and Systems for Video Technology, (<b>TCSVT</b>)</i>, 2023. (<b>SCI Q1 Top, IF=8.4</b>)
-            <br>[<a href="https://ieeexplore.ieee.org/document/9924229">Paper</a>][<a href="https://github.com/B-Xi/TIP_2022_CMFSL">Code</a>]
+            <br>[<a href="https://ieeexplore.ieee.org/document/9924229">Paper</a>][<a href="https://github.com/B-Xi/TCSVT_2022_DGSSC">Code</a>]
         </td>
     </tr>
 </table>
+<br />
 
 <h3>Semi-supervised classification</h3>
 
@@ -50,6 +52,7 @@ redirect_from:
         </td>
     </tr>
 </table>
+<br />
 
 ### Feature extraction
 
