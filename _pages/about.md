@@ -23,6 +23,7 @@ My research interests include but not noly limiting to
 * 深空探索
 
 
-## <font color = blue face=STKaiti>New!</font>
+<font size = 7 color = blue face=STKaiti>New!</font>
+* [2024/02] One paper titled Spatial-Frequency Multimodal Image Fusion accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 
 
