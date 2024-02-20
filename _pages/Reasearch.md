@@ -13,6 +13,20 @@ redirect_from:
 
 ### Few-shot classification
 
+<table width="100%" class="imgtable">
+    <tr>
+        <td width="306"> <img src="../images/pic/paper1.png" width="290px"></td>
+        <td>
+            <a href="https://ieeexplore.ieee.org/document/9841445">Few-shot Learning With Class-Covariance Metric for Hyperspectral Image Classificationc</a>
+            <br> <b>Bobo Xi<b>, Jiaojiao Li, Yunsong Li, Rui Song, Yuchao Xiao, Qian Du, Jocelyn Chanussot
+            <br><i> IEEE Transactions on Image Processing, (<b>TIP</b>)</i>, 2022. (<b>SCI Q1 Top, IF=10.6</b>)
+            <br>[<a href="https://ieeexplore.ieee.org/document/9841445">Paper</a>][<a href="https://github.com/B-Xi/TIP_2022_CMFSL">Code</a>]
+        </td>
+    </tr>
+</table>
+<br />
+
+
 ### Imbalance classification
 
 ### Semi-supervised classification
@@ -23,12 +37,11 @@ redirect_from:
         <td>
             <a href="https://ieeexplore.ieee.org/document/9740412">Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification</a>
             <br> <b>Bobo Xi<b>, Jiaojiao Li, Yunsong Li, Rui Song, Yuchao Xiao, Qian Du, Jocelyn Chanussot,
-            <br><i> IEEE Transactions on Neural Networks and Learning Systems, (<b>JSTARS</b>)</i>, 2023. (<b>SCI Q1 Top, IF=14.255</b>)
+            <br><i> IEEE Transactions on Neural Networks and Learning Systems, (<b>TNNLS</b>)</i>, 2023. (<b>SCI Q1 Top, IF=14.255</b>)
             <br>[<a href="https://ieeexplore.ieee.org/document/9740412">Paper</a>][<a href="https://github.com/B-Xi/TNNLS_2022_X-GPN">Code</a>]
         </td>
     </tr>
 </table>
-<br />
 
 ### Feature extraction
 
