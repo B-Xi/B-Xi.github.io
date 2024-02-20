@@ -19,15 +19,15 @@ redirect_from:
 
 | 类别名称                 | 类别定义                                                     | 图例                                                         |
 | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 火星土壤（Martian Soil） | 未固结或固结较差的风化物质;粒度更小，1mm以下，流动性相对较小;受地形的影响不会形成脊，颜色偏红; | <img src=".\images/pic\exm1.png" alt="image-20220507173101076" style="zoom:50%;" /> |
-| 沙地<br />（Sands）      | 颗粒物质,很细小的岩石,直径1至2毫米;岩石经风化、剥蚀而形成;有迎风坡、背风坡,中间有一个脊,流动性相对较强，暗色为主; | <img src=".\images/pic\image-20220507173119751.png" alt="image-20220507173119751" style="zoom:50%;" /> |
-| 沙砾<br />（Gravel）     | 比岩石颗粒要小，但比沙地颗粒粗糙，岩石经风化、剥蚀而形成，颜色偏灰色。 | <img src=".\images/pic\image-20220507173131095.png" alt="image-20220507173131095" style="zoom:50%;" /> |
-| 基岩<br />（Bedrock）    | 陆壳表层风化层下面完整的新矿物岩石。比石头平整,颜色偏灰白色。多被土层覆盖，埋藏深度个一o | <img src=".\images/pic\image-20220507173200263.png" alt="image-20220507173200263" style="zoom:50%;" /> |
-| 岩石<br />（Rocks）      | 由大岩体遇外力脱落下来的小型岩体，外表较为粗糙,质地坚硬，形状不规则，较为突兀，颜色偏青色。 | <img src=".\images/pic\image-20220507173213432.png" alt="image-20220507173213432" style="zoom:50%;" /> |
-| 行车轨迹（Tracks）       | 探测车行进后留下的轨迹                                       | <img src=".\images/pic\image-20220507173226008.png" alt="image-20220507173226008" style="zoom:50%;" /> |
-| 阴影（Shadows）          | 探测车、岩石等在光照下投射的影子                             | <img src=".\images/pic\image-20220507173246046.png" alt="image-20220507173246046" style="zoom:50%;" /> |
-| 背景（Background）       | 远处的山和天空等类别                                         | <img src=".\images/pic\image-20220507173257502.png" alt="image-20220507173257502" style="zoom:50%;" /> |
-| 未知（Unknown）          | 除以上类别的未知区域，例如火星车自身的影像                   | <img src=".\images/pic\image-20220507173311377.png" alt="image-20220507173311377" style="zoom:50%;" /> |
+| 火星土壤（Martian Soil） | 未固结或固结较差的风化物质;粒度更小，1mm以下，流动性相对较小;受地形的影响不会形成脊，颜色偏红; | <img src="pic\exm1.png" alt="image-20220507173101076" style="zoom:50%;" /> |
+| 沙地<br />（Sands）      | 颗粒物质,很细小的岩石,直径1至2毫米;岩石经风化、剥蚀而形成;有迎风坡、背风坡,中间有一个脊,流动性相对较强，暗色为主; | <img src="pic\image-20220507173119751.png" alt="image-20220507173119751" style="zoom:50%;" /> |
+| 沙砾<br />（Gravel）     | 比岩石颗粒要小，但比沙地颗粒粗糙，岩石经风化、剥蚀而形成，颜色偏灰色。 | <img src="pic\image-20220507173131095.png" alt="image-20220507173131095" style="zoom:50%;" /> |
+| 基岩<br />（Bedrock）    | 陆壳表层风化层下面完整的新矿物岩石。比石头平整,颜色偏灰白色。多被土层覆盖，埋藏深度个一o | <img src="pic\image-20220507173200263.png" alt="image-20220507173200263" style="zoom:50%;" /> |
+| 岩石<br />（Rocks）      | 由大岩体遇外力脱落下来的小型岩体，外表较为粗糙,质地坚硬，形状不规则，较为突兀，颜色偏青色。 | <img src="pic\image-20220507173213432.png" alt="image-20220507173213432" style="zoom:50%;" /> |
+| 行车轨迹（Tracks）       | 探测车行进后留下的轨迹                                       | <img src="pic\image-20220507173226008.png" alt="image-20220507173226008" style="zoom:50%;" /> |
+| 阴影（Shadows）          | 探测车、岩石等在光照下投射的影子                             | <img src="pic\image-20220507173246046.png" alt="image-20220507173246046" style="zoom:50%;" /> |
+| 背景（Background）       | 远处的山和天空等类别                                         | <img src="pic\image-20220507173257502.png" alt="image-20220507173257502" style="zoom:50%;" /> |
+| 未知（Unknown）          | 除以上类别的未知区域，例如火星车自身的影像                   | <img src="pic\image-20220507173311377.png" alt="image-20220507173311377" style="zoom:50%;" /> |
 
 
 
@@ -52,7 +52,7 @@ Mars_Seg
 
 #### 3.2数据类别统计
 
-<img src=".\images/pic\counter.png" alt="image-20220507173246046" style="zoom:50%;" />
+<img src="pic\counter.png" alt="image-20220507173246046" style="zoom:50%;" />
 
 我们统计了数据集中包含各个类别的图像数量。
 
