@@ -49,6 +49,7 @@ redirect_from:
             <br> <b>Bobo Xi<b>, Jiaojiao Li, Yunsong Li, Rui Song, Yuchao Xiao, Qian Du, Jocelyn Chanussot,
             <br><i> IEEE Transactions on Neural Networks and Learning Systems, (<b>TNNLS</b>)</i>, 2023. (<b>SCI Q1 Top, IF=14.255</b>)
             <br>[<a href="https://ieeexplore.ieee.org/document/9740412">Paper</a>][<a href="https://github.com/B-Xi/TNNLS_2022_X-GPN">Code</a>]
+        
         </td>
     </tr>
 </table>
