@@ -55,11 +55,11 @@ redirect_from:
 </table>
 <br />
 
-### Feature extraction
+<!-- ### Feature extraction
 
 ## Topic2-Multimodal classification
 
 
 ### Fusion classification
 
-### Zero-shot scene classification
+### Zero-shot scene classification -->
