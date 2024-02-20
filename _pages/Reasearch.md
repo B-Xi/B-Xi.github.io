@@ -15,6 +15,7 @@ redirect_from:
 
 ### Semi-supervised classification
 
+
 ### Feature extraction
 
 ## Topic2-Multimodal classification
