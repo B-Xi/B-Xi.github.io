@@ -28,9 +28,9 @@ redirect_from:
 
 ### Feature extraction
 
-<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paper1.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9325080">Multi-direction Networks With Attentional Spectral Prior for Hyperspectral Image Classification</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yunsong Li, Rui Song, Yuchao Xiao, Yanzi Shi, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2022. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9325080">Paper</a>][<a href="https://github.com/B-Xi/TGRS_2021_MDN-ASP">Code</a>]</b></b></td></tr></tbody></table>
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperMD.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9325080">Multi-direction Networks With Attentional Spectral Prior for Hyperspectral Image Classification</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yunsong Li, Rui Song, Yuchao Xiao, Yanzi Shi, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2022. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9325080">Paper</a>][<a href="https://github.com/B-Xi/TGRS_2021_MDN-ASP">Code</a>]</b></b></td></tr></tbody></table>
 
-<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paper1.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9203816">Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yunsong Li, Rui Song, Weiwei Sun, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2021. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9203816">Paper</a>][<a href="https://github.com/B-Xi/TGRS_2020_MSC-EDKELM">Code</a>]</td></tr></tbody></table>
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperMS.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9203816">Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yunsong Li, Rui Song, Weiwei Sun, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2021. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9203816">Paper</a>][<a href="https://github.com/B-Xi/TGRS_2020_MSC-EDKELM">Code</a>]</td></tr></tbody></table>
 
 
 
@@ -38,7 +38,7 @@ redirect_from:
 
 ### Fusion classification
 
-<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paper2.11.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9915611">A Triplet Semi-supervised Deep Network for Fusion Classification of Hyperspectral and LiDAR Data</a><br>Jiaojiao Li, Yinle Ma, Rui Song, <b>Bobo Xi</b>, Yunsong Li, Danfeng Hong, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2021. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9915611">Paper</a>]</td></tr></tbody></table>
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperTri.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9915611">A Triplet Semi-supervised Deep Network for Fusion Classification of Hyperspectral and LiDAR Data</a><br>Jiaojiao Li, Yinle Ma, Rui Song, <b>Bobo Xi</b>, Yunsong Li, Danfeng Hong, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2021. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9915611">Paper</a>]</td></tr></tbody></table>
 
 
 ### Zero-shot scene classification
