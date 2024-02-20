@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-## Topic1-Hyperspectral image classification
+<h1>Topic1-Hyperspectral image classification</h1>
 
-### Few-shot classification
+<h3>Few-shot classification</h3>
 
 <table width="100%" class="imgtable">
     <tr>
@@ -23,23 +23,21 @@ redirect_from:
     </tr>
 </table>
 
-
-### Imbalance classification
+<h3>Imbalance classification</h3>
 
 <table width="100%" class="imgtable">
     <tr>
         <td width="306"> <img src="../images/pic/paper1.png" width="290px"></td>
         <td>
-            <a href="https://ieeexplore.ieee.org/document/9841445">DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery</a>
+            <a href="https://ieeexplore.ieee.org/document/9924229">DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery</a>
             <br>  <b>Bobo Xi<b>, Jiaojiao Li, Yan Diao, Yunsong Li, Zan Li, Yan Huang, Jocelyn Chanussot
-            <br><i> IEEE Transactions on Image Processing, (<b>TIP</b>)</i>, 2022. (<b>SCI Q1 Top, IF=10.6</b>)
-            <br>[<a href="https://ieeexplore.ieee.org/document/9841445">Paper</a>][<a href="https://github.com/B-Xi/TIP_2022_CMFSL">Code</a>]
+            <br><i> IEEE Transactions on Circuits and Systems for Video Technology, (<b>TCSVT</b>)</i>, 2023. (<b>SCI Q1 Top, IF=8.4</b>)
+            <br>[<a href="https://ieeexplore.ieee.org/document/9924229">Paper</a>][<a href="https://github.com/B-Xi/TIP_2022_CMFSL">Code</a>]
         </td>
     </tr>
 </table>
 
-
-### Semi-supervised classification
+<h3>Semi-supervised classification</h3>
 
 <table width="100%" class="imgtable">
     <tr>
