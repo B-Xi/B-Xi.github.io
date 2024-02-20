@@ -19,9 +19,9 @@ My group is recruiting master students. If interested, please send your resume a
 Research Interest
 ======
 My research interests include but not noly limiting to
-* 高光谱图像分类
-* 深空探索
-
+* Hyperspectral remote sensing image processing (hyperspectral image classification, object detection, etc.)
+* Multimodal information processing (multi-source remote sensing image fusion classification, zero sample remote sensing image scene classification, etc.)
+* Deep learning and pattern recognition
 
 <font size = 5 color = blue face=STKaiti>New!</font>
 * [2024/02] One paper titled XXXXX accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
