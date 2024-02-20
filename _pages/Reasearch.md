@@ -38,7 +38,7 @@ redirect_from:
 
 ### Fusion classification
 
-<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paper1.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9203816">Multiscale Context-aware Ensemble Deep KELM for Efficient Hyperspectral Image Classification</a><br>Bobo Xi, Jiaojiao Li, Yunsong Li, Rui Song, Weiwei Sun, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2021. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9203816">Paper</a>]</b></b></td></tr></tbody></table>
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paper2.11.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9915611">A Triplet Semi-supervised Deep Network for Fusion Classification of Hyperspectral and LiDAR Data</a><br>Jiaojiao Li, Yinle Ma, Rui Song, Bobo Xi*, Yunsong Li, Danfeng Hong, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2021. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9915611">Paper</a>]</b></b></td></tr></tbody></table>
 
 
 ### Zero-shot scene classification
