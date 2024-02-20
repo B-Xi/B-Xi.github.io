@@ -24,7 +24,6 @@ redirect_from:
         </td>
     </tr>
 </table>
-<br />
 
 
 ### Imbalance classification
