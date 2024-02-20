@@ -24,6 +24,7 @@ My research interests include but not noly limiting to
 * Deep learning and pattern recognition
 
 <font size = 5 color = blue face=STKaiti>New!</font>
+
 * [2024/02] One paper titled XXXXX accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 
 * [2024/01] One paper titled XXXXX accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
