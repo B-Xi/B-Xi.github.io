@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-### Education
+## Education
 
 * B.S. in School of Telecommunications Engineering, Xidian University, 2017
 * Ph.D in School of Telecommunications Engineering, Xidian University, 2022 (Supervisor: Prof. Yunsong Li)
 * In 2021-2022, awarded a grant from the National Study Abroad Council (CSC), and then remotely collaborate with Prof. Jocelyn Chanussot (IEEE Fellow) since 2021
 
-Editorial activity
+## Editorial activity
 ======
 * **Editorial Board** [*Remote Sensing SCI Q2*](https://www.mdpi.com/journal/remotesensing/special_issues/KVCSC58HQ0) since 2022
 * **Editorial Board** [*Frontiers in Remote Sensing*](https://www.frontiersin.org/my-frontiers/overview) since 2022
 
 
-### Reviewer
+## Reviewer
 
 * **IEEE T-PAMI**，[*IEEE Transactions on Pattern Analysis and Machine Intelligence*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 
@@ -41,13 +41,13 @@ Editorial activity
 
 * **PR**, [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
 
-### Project：
+## Project：
 
 * Host the China Postdoctoral Science Foundation under Grant, the Natural Science Basic Research Plan in Shaanxi Province of China under Grant, the Postdoctoral Science Foundation of Shaanxi Province (First-class), etc.
 
 * Participate in the major project of Science and Technology Innovation 2030 "New Generation Artificial Intelligence": "Intelligent processing of rapid and accurate segmentation, detection, positioning, tracking and identification of multi-source heterogeneous sensing objects", etc. 
 
-Award
+## Award
 ======
 * Jiuzhang Talent Program of the CAS National Space Science Center, 2022.09
 * Outstanding graduates of Shaanxi Province,2022.06   
