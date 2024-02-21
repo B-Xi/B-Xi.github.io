@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an associate professor at [School of Telecommunications Engineering](https://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), and also a member of [the State Key Laboratory of Integrated Service Networks](https://isn.xidian.edu.cn/).
+I'm currently an associate professor (on the tenure track) at [School of Telecommunications Engineering](https://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), and also a member of [the State Key Laboratory of Integrated Service Networks](https://isn.xidian.edu.cn/).
 
 I am also a Research Associate in the [National  Space Center of the Chinese Academy of Sciences (CAS)](http://english.nssc.cas.cn/). (Jiuzhang Talent Program, Part-time) 
 
