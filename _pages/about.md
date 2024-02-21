@@ -24,7 +24,7 @@ My research interests include but not noly limiting to
 * Computer vision for deep space exploration
 * Deep learning and pattern recognition
 
-<font size = 5 color = blue face=STKaiti>New!</font>
+<font size = 5 color = blue face=STKaiti>News!</font>
 
 * [2023/12] One paper titled **Small Object Aware Video Coding for Machines via Feature-Motion Synergy** accepted by [IEEE GRSL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
 
