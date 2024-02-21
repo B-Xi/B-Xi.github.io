@@ -13,7 +13,7 @@ redirect_from:
 
 * B.S. in School of Telecommunications Engineering, Xidian University, 2017
 * Ph.D in School of Telecommunications Engineering, Xidian University, 2022 (Supervisor: Prof. Yunsong Li)
-* In 2021-2022, awarded a grant from the National Study Abroad Council (CSC), and then remotely collaborate with Prof. Jocelyn Chanussot (IEEE Fellow) since 2021
+* Awarded the China Scholarship Council (CSC) grant in 2021-2022, and then remotely guided by Prof. Jocelyn Chanussot (IEEE Fellow).
 
 ## Editorial activity
 
