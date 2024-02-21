@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ redirect_from:
 * In 2021-2022, awarded a grant from the National Study Abroad Council (CSC), and then remotely collaborate with Prof. Jocelyn Chanussot (IEEE Fellow) since 2021
 
 ## Editorial activity
-======
+
 * **Editorial Board** [*Remote Sensing SCI Q2*](https://www.mdpi.com/journal/remotesensing/special_issues/KVCSC58HQ0) since 2022
 * **Editorial Board** [*Frontiers in Remote Sensing*](https://www.frontiersin.org/my-frontiers/overview) since 2022
 
