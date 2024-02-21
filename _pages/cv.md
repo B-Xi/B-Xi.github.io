@@ -54,7 +54,7 @@ redirect_from:
 * Outstanding graduate of Shaanxi Province Outstanding graduate cadre of Xidian University, 2022.06       
 * The 5th "Internet +" College Students Innovation and Entrepreneurship Competition, National Gold Award, 2019.09
 * National scholarship for graduate student, 2018.09      
-* The third "Internet +" College Students Innovation and Entrepreneurship Competition, National Silver Award/Shaanxi Province Gold Award, 2017.09       
+* The 3rd "Internet +" College Students Innovation and Entrepreneurship Competition, National Silver Award/Shaanxi Province Gold Award, 2017.09       
 
 
 
