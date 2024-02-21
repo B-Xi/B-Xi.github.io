@@ -50,7 +50,7 @@ redirect_from:
 ## Award
 
 * Jiuzhang Talent Program of the CAS National Space Science Center, 2022.09
-* Outstanding graduates of Shaanxi Province,2022.06   
+* Outstanding graduates of Shaanxi Province, 2022.06   
 * Outstanding graduate of Shaanxi Province Outstanding graduate cadre of Xidian University, 2022.06       
 * The 5th "Internet +" College Students Innovation and Entrepreneurship Competition, National Gold Award, 2019.09
 * National scholarship for graduate student, 2018.09      
