@@ -13,7 +13,7 @@ redirect_from:
 
 * B.S. in School of Telecommunications Engineering, Xidian University, 2017
 * Ph.D in School of Telecommunications Engineering, Xidian University, 2022 (Supervisor: Prof. Yunsong Li)
-* In 2021-2022, he was awarded a grant from the National Study Abroad Council (CSC), and then remotely collaborate with Prof. Jocelyn Chanussot (IEEE Fellow) since 2021
+* In 2021-2022, awarded a grant from the National Study Abroad Council (CSC), and then remotely collaborate with Prof. Jocelyn Chanussot (IEEE Fellow) since 2021
 
 Editorial activity
 ======
@@ -33,7 +33,7 @@ Editorial activity
 
 * **IEEE J-STARS**，[*Journal of Selected Topics in Applied Earth Observations and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)
 
-* **IEEE GRSL**,[*IEEE Geoscience and Remote Sensing Letters*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
+* **IEEE GRSL**, [*IEEE Geoscience and Remote Sensing Letters*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
 
 * **JAG-D**，[*International Journal of Applied Earth Observation and Geoinformation*](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation)
 
