@@ -1,5 +1,5 @@
 ---
-title: " 陕西省优秀毕业生"
+title: " 西安电子科技大学优秀毕业研究生干部"
 collection: talks
 type: "provincial level"
 permalink: /talks/2023-01-01-competition-2

@@ -31,7 +31,7 @@ Editorial activity
 
 * **IEEE T-GRS**，[*IEEE Transactions on Geoscience and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
 
-* **IEEE J-STARS**，[*Journal of Selected Topics in Applied Earth Observations and Remote Sensing*]
+* **IEEE J-STARS**，[*Journal of Selected Topics in Applied Earth Observations and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)
 
 * **IEEE GRSL**,[*IEEE Geoscience and Remote Sensing Letters*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
 
