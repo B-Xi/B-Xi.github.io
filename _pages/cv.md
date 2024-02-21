@@ -12,8 +12,8 @@ redirect_from:
 ### Education
 
 * B.S. in School of Telecommunications Engineering, Xidian University, 2017
-* Ph.D in School of Telecommunications Engineering, Xidian University, 2022 (Supervisor: Prof.Yunsong Li)
-* In 2021-2022, he was awarded a grant from the National Study Abroad Council (CSC) to collaborate with Professor Jocelyn Chanussot (IEEE Fellow) at the University of Grenoble (remotely)
+* Ph.D in School of Telecommunications Engineering, Xidian University, 2022 (Supervisor: Prof. Yunsong Li)
+* In 2021-2022, he was awarded a grant from the National Study Abroad Council (CSC), and then remotely collaborate with Prof. Jocelyn Chanussot (IEEE Fellow) since 2021
 
 Editorial activity
 ======
@@ -43,9 +43,9 @@ Editorial activity
 
 ### Project：
 
-* I host the China Postdoctoral Science Foundation under Grant, the Natural Science Basic Research Plan in Shaanxi Province of China under Grant, the Postdoctoral Science Foundation of Shaanxi Province (First-class), the Fundamental Research Funds for the Central Universities, the Xidian University Graduate Student Innovation Fund Projects, the Youth Open Project of National Space Science Data Center, and the Youth innovation project of the CAS National Space Science Center.
+* Host the China Postdoctoral Science Foundation under Grant, the Natural Science Basic Research Plan in Shaanxi Province of China under Grant, the Postdoctoral Science Foundation of Shaanxi Province (First-class), etc.
 
-* I participated in the major project of Science and Technology Innovation 2030 "New Generation Artificial Intelligence": "Intelligent processing of rapid and accurate segmentation, detection, positioning, tracking and identification of multi-source heterogeneous sensing objects". 
+* Participate in the major project of Science and Technology Innovation 2030 "New Generation Artificial Intelligence": "Intelligent processing of rapid and accurate segmentation, detection, positioning, tracking and identification of multi-source heterogeneous sensing objects", etc. 
 
 Award
 ======
