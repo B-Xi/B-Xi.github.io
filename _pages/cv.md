@@ -37,7 +37,7 @@ Editorial activity
 
 * **JAG-D**，[*International Journal of Applied Earth Observation and Geoinformation*](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation)
 
-* **IF**, [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion)
+* **INFFUS**, [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion)
 
 * **PR**, [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
 
