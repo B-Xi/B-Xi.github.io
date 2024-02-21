@@ -17,8 +17,8 @@ redirect_from:
 
 Editorial activity
 ======
-* **Editorial Board** [*Remote Sensing JCR SCI CCF since 2022*](https://www.mdpi.com/journal/remotesensing/special_issues/KVCSC58HQ0)
-* **Editorial Board** [*Frontiers in Remote Sensing JCR SCI CCF since 2022*](https://www.frontiersin.org/my-frontiers/overview)
+* **Editorial Board** [*Remote Sensing SCI Q2*](https://www.mdpi.com/journal/remotesensing/special_issues/KVCSC58HQ0) since 2022
+* **Editorial Board** [*Frontiers in Remote Sensing*](https://www.frontiersin.org/my-frontiers/overview) since 2022
 
 
 ### Reviewer
