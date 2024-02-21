@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently an associate professor at [School of Telecommunications Engineering](https://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), and also a member of [the State Key Laboratory of Integrated Service Networks](https://isn.xidian.edu.cn/).
 
-I'm also a XX  in Aerospace Information Research Institute, Chinese Academy of Sciences (CAS)
+I am also a Research Associate in the National  Space Center of the Chinese Academy of Sciences (CAS). (Jiuzhang Talent Program, Part-time) 
 
 My group is recruiting master students. If interested, please send your resume and transcript to my e-mail.
 
@@ -25,7 +25,17 @@ My research interests include but not noly limiting to
 
 <font size = 5 color = blue face=STKaiti>New!</font>
 
-* [2024/02] One paper titled XXXXX accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+* [2023/12] One paper titled **Small Object Aware Video Coding for Machines via Feature-Motion Synergy** accepted by [IEEE GRSL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
 
-* [2024/01] One paper titled XXXXX accepted by [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+* [2023/09] One paper titled **Class-Specific Auto-augment Architecture Based on Schmidt Mathematical Theory for Imbalanced Hyperspectral Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+
+* [2022/10] One paper titled **DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery** accepted by [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+
+* [2022/10] One paper titled **A Triplet Semi-supervised Deep Network for Fusion Classification of Hyperspectral and LiDAR Data**  accepted by [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+
+* [2022/07] One paper titled **Few-shot Learning With Class-Covariance Metric for Hyperspectral Image Classification** accepted by [IEEE GRSL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+
+* [2022/03] One paper titled **Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification** accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+
+* ......
 
