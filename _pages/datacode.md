@@ -60,13 +60,7 @@ Mars-Seg
 
 If you have used our dataset in your research, please remember to cite our paper.
 
-[A Stepwise Domain Adaptive Segmentation Network With Covariate Shift Alleviation for Remote Sensing Imagery](https://ieeexplore.ieee.org/document/9716091 ) ( Volume: 60)
-
-J. Li, S. Zi, R. Song, Y. Li, Y. Hu and Q. Du
-
-Published in [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) ( Volume: 60)
-
-- Cov-DA: A Stepwise Domain Adaptive Segmentation Network with Covariate shift Alleviation for Remote Sensing Imagery, IEEE Transactions on Geoscience and Remote Sensing, 2022,Jiaojiao Li, Shunyao Zi, Rui Song, Yunsong Li, Yinlin Hu, Qian Du, doi:10.1109/TGRS.2022.3152587. [[PDF]](https://ieeexplore.ieee.org/document/9716091)[[Code]](https://github.com/KL-Ding/TGRS-Cov_DA)
+Jiaojiao Li, Shunyao Zi, Rui Song, Yunsong Li, Yinlin Hu, Qian Du, Cov-DA: A Stepwise Domain Adaptive Segmentation Network with Covariate shift Alleviation for Remote Sensing Imagery, IEEE Transactions on Geoscience and Remote Sensing, 60: 1-15, 2022. doi:10.1109/TGRS.2022.3152587. [[PDF]](https://ieeexplore.ieee.org/document/9716091)[[Code]](https://github.com/KL-Ding/TGRS-Cov_DA)
 
 <!-- #### 论文亮点
 
@@ -85,6 +79,10 @@ Published in [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexp
 ``` -->
 
 ### [Google Drive Download Link](https://drive.google.com/drive/folders/1nOe2kNdI11MCohKwVuNoMcl8T7xoPAsS?usp=sharing)
+
+### Many thanks to the participants who built this dataset:
+
+Bobo Xi, Chaoxiong Wu, Huanqing Zhang, Shunyao Zi, Yinle Ma, Songcheng Du, Kexin Wang, Chenxi Ji, Siyao Fan, Chiyu Chen, Hantao Zhou, Shuangying Wei, Mingze He, Qiaoyang Ren, Jiyao Liu, Fangrui Kang, Shaoze Peng, Chaohui Wang, Aohong Sun, Pengju Tian, Siyuan Xu, Xinhang Li, Haoxuan Wang, Xueyao Zhang, Ziquan Wang, Xinyuan Li, Zejun Ou, Hanwen Li, Hao Wen, Jiaochao Liu, Penghao Tian, Yan Diao, Yuzhe Liu, Xuan Chen, Zhiyuan Zhang, and Yihong leng.
 
 <!-- #### 构建数据集成员
 
