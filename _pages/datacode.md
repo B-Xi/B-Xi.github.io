@@ -7,11 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-## Dataset_Marsegdataset
+## Dataset_Mars-Seg
 
-In the Mars exploration mission, it is necessary to construct a series of datasets in the Mars scene for the training and validation of relevant perception algorithms. In 2021, around the semantic segmentation task, NASA's Mars Science Laboratory released the first large-scale Martian terrain dataset called AI4Mars, which includes four types of terrain. However, due to the lack of definition of terrain categories and low annotation accuracy, the dataset does not have practical application value. For this purpose, our team has released a series of datasets named Mars seg for semantic segmentation tasks.
+In the Mars exploration mission, it is necessary to construct a series of datasets in the Mars scene for the training and validation of relevant perception algorithms. In 2021, around the semantic segmentation task, NASA's Mars Science Laboratory released the first large-scale Martian terrain dataset called AI4Mars, which includes four types of terrain. However, due to the lack of definition of terrain categories and low annotation accuracy, the dataset does not have practical application value. For this purpose, our team has released a series of datasets named Mars-Seg for semantic segmentation tasks.
 
-The Mars seg dataset contains rich high-resolution images of Martian scenes, which helps researchers understand the true Martian landscape. All single channel grayscale images in this dataset are from the Planetary Data System (PDS), covering 1064 high-definition images captured by the Navigation Camera (NAVCAM) and Panoramic Camera (PANCAM) of the Opportunity and Courage Mars rovers (MER); All RGB images were collected from Mars 32k, all from the MastCam camera of the Curiosity Rover (MSL), with a total of 4148 images. Among them, the spatial resolution of the grayscale image in MER Seg is 1024 x 1024, while the color image in MSL Seg is downsampled to 560 x 500 through bilinear interpolation.
+The Mars-Seg dataset contains rich high-resolution images of Martian scenes, which helps researchers understand the true Martian landscape. All single channel grayscale images in this dataset are from the Planetary Data System (PDS), covering 1064 high-definition images captured by the Navigation Camera (NAVCAM) and Panoramic Camera (PANCAM) of the Opportunity and Courage Mars rovers (MER); All RGB images were collected from Mars 32k, all from the MastCam camera of the Curiosity Rover (MSL), with a total of 4148 images. Among them, the spatial resolution of the grayscale image in MER Seg is 1024 x 1024, while the color image in MSL Seg is downsampled to 560 x 500 through bilinear interpolation.
 
 In this dataset, by analyzing the difficulties encountered by the detection vehicle during the detection process and the high-risk issues that may be encountered during the task execution, we divide the terrain in the dataset into the following 9 categories:
 
@@ -33,7 +33,7 @@ In this dataset, by analyzing the difficulties encountered by the detection vehi
 
 #### 2.1文件组成
 
-Mars_Seg
+Mars-Seg
 
 ├─MER
 │  ├─JPEGImages	原始图像（.jpg）
@@ -84,7 +84,7 @@ Published in [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexp
   doi={10.1109/TGRS.2022.3152587}}
 ``` -->
 
-#### Link https://drive.google.com/drive/folders/1nOe2kNdI11MCohKwVuNoMcl8T7xoPAsS?usp=sharing
+### [Google Drive Download Link](https://drive.google.com/drive/folders/1nOe2kNdI11MCohKwVuNoMcl8T7xoPAsS?usp=sharing)
 
 <!-- #### 构建数据集成员
 
