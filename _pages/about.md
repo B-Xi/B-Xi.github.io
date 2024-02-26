@@ -18,7 +18,7 @@ My group is recruiting master students. If interested, please send your resume a
 
 Research Interest
 ======
-My research interests include but not noly limiting to
+My research interests include but not only limiting to
 * Hyperspectral image processing (hyperspectral image classification, target detection, etc.)
 * Multimodal information processing (multi-source remote sensing image fusion classification, zero-shot remote sensing scene classification, etc.)
 * Computer vision for deep space exploration
