@@ -26,17 +26,21 @@ My research interests include but not only limiting to
 
 <font size = 5 color = blue face=STKaiti>News!</font>
 
-* [2023/12] One paper titled **Small Object Aware Video Coding for Machines via Feature-Motion Synergy** accepted by [IEEE GRSL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
+* [2024/06] One paper titled **Review of Zero-Shot Remote Sensing Image Scene Classification** accepted by [IEEE JSTARS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10552052)
 
-* [2023/09] One paper titled **Class-Specific Auto-augment Architecture Based on Schmidt Mathematical Theory for Imbalanced Hyperspectral Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+* [2024/05] One paper titled **Mind the Gap: Multi-Level Unsupervised Domain Adaptation for Cross-scene Hyperspectral Image Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10543066)
 
-* [2022/10] One paper titled **DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery** accepted by [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
+* [2024/05] One paper titled **Diamond-Unet: A Novel Semantic Segmentation Network Based on U-Net Network and Transformer for Deep Space Rock Images** accepted by [IEEE GRSL](https://ieeexplore.ieee.org/document/10521789/)
 
-* [2022/10] One paper titled **A Triplet Semi-supervised Deep Network for Fusion Classification of Hyperspectral and LiDAR Data**  accepted by [IEEE TGRS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
+* [2023/12] One paper titled **Small Object Aware Video Coding for Machines via Feature-Motion Synergy** accepted by [IEEE GRSL](https://ieeexplore.ieee.org/document/10368029)
 
-* [2022/07] One paper titled **Few-shot Learning With Class-Covariance Metric for Hyperspectral Image Classification** accepted by [IEEE TIP](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+* [2023/09] One paper titled **Class-Specific Auto-augment Architecture Based on Schmidt Mathematical Theory for Imbalanced Hyperspectral Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10258305/)
 
-* [2022/03] One paper titled **Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification** accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+* [2022/10] One paper titled **DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery** accepted by [IEEE TCSVT](https://ieeexplore.ieee.org/document/9924229)
+
+* [2022/07] One paper titled **Few-shot Learning With Class-Covariance Metric for Hyperspectral Image Classification** accepted by [IEEE TIP](https://ieeexplore.ieee.org/document/9841445/)
+
+* [2022/03] One paper titled **Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification** accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/9740412/)
 
 * ......
 
