@@ -26,6 +26,8 @@ My research interests include but not only limiting to
 
 <font size = 5 color = blue face=STKaiti>News!</font>
 
+* [2024/06] One paper titled **MFINet: A Novel Zero-Shot Remote Sensing Scene Classification Network Based on Multimodal Feature Interaction** accepted by [IEEE JSTARS](https://ieeexplore.ieee.org/document/10557622)
+
 * [2024/06] One paper titled **Review of Zero-Shot Remote Sensing Image Scene Classification** accepted by [IEEE JSTARS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10552052)
 
 * [2024/05] One paper titled **Mind the Gap: Multi-Level Unsupervised Domain Adaptation for Cross-scene Hyperspectral Image Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10543066)
