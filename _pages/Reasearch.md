@@ -42,3 +42,5 @@ redirect_from:
 
 
 ### Zero-shot scene classification
+
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/frame1-4.tif.tif" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/10557622">MFINet: A Novel Zero-Shot Remote Sensing Scene Classification Network Based on Multimodal Feature Interaction</a><br>Xiaomeng Tan, <b>Bobo Xi</b>, Haitao Xu, Yunsong Li, Changbin Xue, Jocelyn Chanussot, <br><i> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, (<b>TGRS</b>)</i>, 2024. (<b>SCI Q2 Top, IF=4.7</b>)<br>[<a href="https://ieeexplore.ieee.org/document/10557622">Paper</a>]</td></tr></tbody></table>
