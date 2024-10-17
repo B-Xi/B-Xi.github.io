@@ -17,7 +17,7 @@ redirect_from:
 
   
 
-### Imbalance classification
+### Imbalanced classification
 
 <table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperDGSSC.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9924229">DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yan Diao, Yunsong Li, Zan Li, Yan Huang, Jocelyn Chanussot,<br><i>IEEE Transactions on Circuits and Systems for Video Technology, (<b>TCSVT</b>)</i>, 2023. (<b>SCI Q1 Top, IF=8.4</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9924229">Paper</a>][<a href="https://github.com/B-Xi/TCSVT_2022_DGSSC">Code</a>]</td></tr></tbody></table>
 
