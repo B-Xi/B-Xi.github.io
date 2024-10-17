@@ -15,17 +15,19 @@ redirect_from:
 
 <table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperCTFSSCL.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/10684809/">CTF-SSCL: CNN-Transformer for Few-shot Hyperspectral Image Classification Assisted by Semisupervised Contrastive Learning</a><br><b>Bobo Xi</b>, Yun Zhang, Jiaojiao Li, Yunsong Li, Zan Li, Jocelyn Chanussot, <br><i>IIEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2024. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/10684809/">Paper</a>][<a href="https://github.com/B-Xi/CTF-SSCL">Code</a>]</td></tr></tbody></table>
 
-  
 
 ### Imbalanced classification
 
 <table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperDGSSC.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9924229">DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yan Diao, Yunsong Li, Zan Li, Yan Huang, Jocelyn Chanussot,<br><i>IEEE Transactions on Circuits and Systems for Video Technology, (<b>TCSVT</b>)</i>, 2023. (<b>SCI Q1 Top, IF=8.4</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9924229">Paper</a>][<a href="https://github.com/B-Xi/TCSVT_2022_DGSSC">Code</a>]</td></tr></tbody></table>
 
-  
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperCACS.jpg" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/10258305">Class-Specific Auto-augment Architecture Based on Schmidt Mathematical Theory for Imbalanced Hyperspectral Classification</a><br>Jiaojiao Li, Yan Diao, Rui Song, <b>Bobo Xi*</b>, Yunsong Li, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TNNLS</b>)</i>, 2023. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/10258305">Paper</a>][<a href="https://github.com/jojolee6513/CACS">Code</a>]</td></tr></tbody></table>
+
 
 ### Semi-supervised classification
 
 <table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paper1.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9740412">Semisupervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yunsong Li, Rui Song, Yuchao Xiao, Qian Du, Jocelyn Chanussot,<br><i>IEEE Transactions on Neural Networks and Learning Systems, (<b>TNNLS</b>)</i>, 2023. (<b>SCI Q1 Top, IF=14.255</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9740412">Paper</a>][<a href="https://github.com/B-Xi/TNNLS_2022_X-GPN">Code</a>]</td></tr></tbody></table>
+
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperSGML.jpg" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9652087">SGML: A Symmetric Graph Metric Learning Framework for Efficient Hyperspectral Image Classification</a><br> Yunsong Li, <b>Bobo Xi*</b>, Jiaojiao Li, Rui Song, Yuchao Xiao, Jocelyn Chanussot,<br><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, (<b>JSTARS</b>)</i>, 2023. (<b>SCI Q2 Top, IF=4.7</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9652087">Paper</a>][<a href="https://github.com/B-Xi/JSTARS_2021_SGML">Code</a>]</td></tr></tbody></table>
 
 
 ### Feature extraction
