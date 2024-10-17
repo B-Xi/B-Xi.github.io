@@ -34,7 +34,7 @@ My research interests include but not only limiting to
 
 * [2024/09] One paper titled **Multilevel Attention Dynamic-scale Network for HSI and LiDAR Data Fusion Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10669994)
 
-* [2022/08] One paper titled **FDGNet: Frequency Disentanglement and Data Geometry for Domain Generalization in Cross-Scene Hyperspectral Image Classification** accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10646594)
+* [2024/08] One paper titled **FDGNet: Frequency Disentanglement and Data Geometry for Domain Generalization in Cross-Scene Hyperspectral Image Classification** accepted by [IEEE TNNLS](https://ieeexplore.ieee.org/document/10646594)
 
 * [2024/07] One paper titled **Hyperspherical Structural-Aware Distillation Enhanced Spatial–Spectral Bidirectional Interaction Network for Hyperspectral Image Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10608166/)
 
