@@ -11,13 +11,15 @@ redirect_from:
 
 ### Few-shot classification
 
-<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperFirst.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9841445">Few-shot Learning With Class-Covariance Metric for Hyperspectral Image Classificationc</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yunsong Li, Rui Song, Yuchao Xiao, Qian Du, Jocelyn Chanussot<br><i>IEEE Transactions on Image Processing, (<b>TIP</b>)</i>, 2022. (<b>SCI Q1 Top, IF=10.6</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9841445">Paper</a>][<a href="https://github.com/B-Xi/TIP_2022_CMFSL">Code</a>]</td></tr></tbody></table>
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperFirst.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9841445">Few-shot Learning With Class-Covariance Metric for Hyperspectral Image Classificationc</a><br><b>Bobo Xi</b>, Bobo Xi, Yun Zhang, Jiaojiao Li, Yunsong Li, Zan Li, Jocelyn Chanussot, <br><i>IEEE Transactions on Image Processing, (<b>TIP</b>)</i>, 2022. (<b>SCI Q1 Top, IF=10.6</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9841445">Paper</a>][<a href="https://github.com/B-Xi/TIP_2022_CMFSL">Code</a>]</td></tr></tbody></table>
+
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperCTFSSCL.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/10684809/">CTF-SSCL: CNN-Transformer for Few-shot Hyperspectral Image Classification Assisted by Semisupervised Contrastive Learning</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yunsong Li, Rui Song, Yuchao Xiao, Qian Du, Jocelyn Chanussot, <br><i>IIEEE Transactions on Geoscience and Remote Sensing,, (<b>TGRS</b>)</i>, 2024. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/10684809/">Paper</a>][<a href="https://github.com/B-Xi/CTF-SSCL">Code</a>]</td></tr></tbody></table>
 
   
 
 ### Imbalance classification
 
-<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperDGSSC.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9924229">DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yan Diao, Yunsong Li, Zan Li, Yan Huang, Jocelyn Chanussot<br><i>IEEE Transactions on Circuits and Systems for Video Technology, (<b>TCSVT</b>)</i>, 2023. (<b>SCI Q1 Top, IF=8.4</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9924229">Paper</a>][<a href="https://github.com/B-Xi/TCSVT_2022_DGSSC">Code</a>]</td></tr></tbody></table>
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperDGSSC.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9924229">DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery</a><br><b>Bobo Xi</b>, Jiaojiao Li, Yan Diao, Yunsong Li, Zan Li, Yan Huang, Jocelyn Chanussot,<br><i>IEEE Transactions on Circuits and Systems for Video Technology, (<b>TCSVT</b>)</i>, 2023. (<b>SCI Q1 Top, IF=8.4</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9924229">Paper</a>][<a href="https://github.com/B-Xi/TCSVT_2022_DGSSC">Code</a>]</td></tr></tbody></table>
 
   
 
@@ -38,11 +40,13 @@ redirect_from:
 
 ### Fusion classification
 
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperMADNet.jpg" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/10669994">Multilevel Attention Dynamic-Scale Network for HSI and LiDAR Data Fusion Classification</a><br>Yufei He, <b>Bobo Xi</b>, Guocheng Li, Tie Zheng, Yunsong Li, Changbin Xue, Jocelyn Chanussot, <br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2021. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/10669994">Paper</a>]</td></tr></tbody></table>
+
 <table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperTri.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/9915611">A Triplet Semi-supervised Deep Network for Fusion Classification of Hyperspectral and LiDAR Data</a><br>Jiaojiao Li, Yinle Ma, Rui Song, <b>Bobo Xi</b>, Yunsong Li, Danfeng Hong, Qian Du,<br><i>IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2021. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/9915611">Paper</a>]</td></tr></tbody></table>
 
 
 ### Zero-shot scene classification
 
-<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/frame1-4.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/10557622">MFINet: A Novel Zero-Shot Remote Sensing Scene Classification Network Based on Multimodal Feature Interaction</a><br>Xiaomeng Tan, <b>Bobo Xi</b>, Haitao Xu, Yunsong Li, Changbin Xue, Jocelyn Chanussot, <br><i> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, (<b>JSTARS</b>)</i>, 2024. (<b>SCI Q2 Top, IF=4.7</b>)<br>[<a href="https://ieeexplore.ieee.org/document/10557622">Paper</a>]</td></tr></tbody></table>
+<table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/paperLightZSL.jpg" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/10699382">A Lightweight Framework With Knowledge Distillation for Zero-Shot Mars Scene Classification</a><br>Xiaomeng Tan, <b>Bobo Xi</b>, Haitao Xu, Jiaojiao Li, Yunsong Li, Changbin Xue, Jocelyn Chanussot, <br><i> IEEE Transactions on Geoscience and Remote Sensing, (<b>TGRS</b>)</i>, 2024. (<b>SCI Q1 Top, IF=8.2</b>)<br>[<a href="https://ieeexplore.ieee.org/document/10699382">Paper</a>]</td></tr></tbody></table>
 
 <table width="100%" class="imgtable"><tbody><tr><td width="306"><img src="../images/pic/frame1-4.png" width="290px"></td><td><a href="https://ieeexplore.ieee.org/document/10557622">MFINet: A Novel Zero-Shot Remote Sensing Scene Classification Network Based on Multimodal Feature Interaction</a><br>Xiaomeng Tan, <b>Bobo Xi</b>, Haitao Xu, Yunsong Li, Changbin Xue, Jocelyn Chanussot, <br><i> IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, (<b>JSTARS</b>)</i>, 2024. (<b>SCI Q2 Top, IF=4.7</b>)<br>[<a href="https://ieeexplore.ieee.org/document/10557622">Paper</a>]</td></tr></tbody></table>
