@@ -26,6 +26,10 @@ My research interests include but not only limiting to
 
 <font size = 5 color = blue face=STKaiti>News!</font>
 
+* [2025/01] One paper titled **Transductive Few-shot Learning With Enhanced Spectral-Spatial Embedding for Hyperspectral Image Classification** accepted by [IEEE TIP](https://doi.org/10.1109/TIP.2025.3531709)
+
+* [2025/01] One paper titled **MCTGCL: Mixed CNN-Transformer for Mars Hyperspectral Image Classification With Graph Contrastive Learning** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10843260)
+
 * [2024/10] One paper titled **Cross-domain Few-shot Learning Based on Decoupled Knowledge Distillation for Hyperspectral Image Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10707609/)
 
 * [2024/09] One paper titled **A Lightweight Framework With Knowledge Distillation for Zero-Shot Mars Scene Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10699382)
