@@ -82,7 +82,7 @@ Jiaojiao Li, Shunyao Zi, Rui Song, Yunsong Li, Yinlin Hu, Qian Du, Cov-DA: A
 
 ### Many thanks to the participants who built this dataset:
 
-Bobo Xi, Chaoxiong Wu, Huanqing Zhang, Shunyao Zi, Yinle Ma, Songcheng Du, Kexin Wang, Chenxi Ji, Siyao Fan, Chiyu Chen, Hantao Zhou, Shuangying Wei, Mingze He, Qiaoyang Ren, Jiyao Liu, Fangrui Kang, Shaoze Peng, Chaohui Wang, Aohong Sun, Pengju Tian, Siyuan Xu, Xinhang Li, Haoxuan Wang, Xueyao Zhang, Ziquan Wang, Xinyuan Li, Zejun Ou, Hanwen Li, Hao Wen, Jiachao Liu, Penghao Tian, Yan Diao, Yuzhe Liu, Xuan Chen, Zhiyuan Zhang, and Yihong leng.
+Jiaojiao Li, Bobo Xi, Chaoxiong Wu, Huanqing Zhang, Shunyao Zi, Yinle Ma, Songcheng Du, Kexin Wang, Chenxi Ji, Siyao Fan, Chiyu Chen, Hantao Zhou, Shuangying Wei, Mingze He, Qiaoyang Ren, Jiyao Liu, Fangrui Kang, Shaoze Peng, Chaohui Wang, Aohong Sun, Pengju Tian, Siyuan Xu, Xinhang Li, Haoxuan Wang, Xueyao Zhang, Ziquan Wang, Xinyuan Li, Zejun Ou, Hanwen Li, Hao Wen, Jiachao Liu, Penghao Tian, Yan Diao, Yuzhe Liu, Xuan Chen, Zhiyuan Zhang, and Yihong leng.
 
 <!-- #### 构建数据集成员
 
