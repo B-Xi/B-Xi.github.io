@@ -26,6 +26,8 @@ My research interests include but not only limiting to
 
 <font size = 5 color = blue face=STKaiti>News!</font>
 
+* [2025/02] One paper titled **HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data** accepted by [IEEE TGRS](https://doi.org/10.1109/TGRS.2025.3545926)
+
 * [2025/01] One paper titled **Transductive Few-shot Learning With Enhanced Spectral-Spatial Embedding for Hyperspectral Image Classification** accepted by [IEEE TIP](https://doi.org/10.1109/TIP.2025.3531709)
 
 * [2025/01] One paper titled **MCTGCL: Mixed CNN-Transformer for Mars Hyperspectral Image Classification With Graph Contrastive Learning** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/10843260)
