@@ -35,20 +35,35 @@ redirect_from:
 
 * **IEEE GRSL**, [*IEEE Geoscience and Remote Sensing Letters*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
 
-* **JAG-D**，[*International Journal of Applied Earth Observation and Geoinformation*](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation)
+* **IEEE Sensors Journal**, [*IEEE Sensors Journal*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
 
-* **INFFUS**, [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion)
+* **Elsevier ISPRS**, [*ISPRS Journal of Photogrammetry and Remote Sensing*](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)
 
-* **PR**, [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
+* **Elsevier JAG**，[*International Journal of Applied Earth Observation and Geoinformation*](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation)
+
+* **Elsevier INFFUS**, [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion)
+
+* **Elsevier PR**, [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
+
+* **Elsevier Neurocomputing**, [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing)
+
+* **Elsevier ESWA**, [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+
+* **Scientific Reports**, [*Scientific Reports*](https://www.nature.com/srep/)
+
+* **SPIE JARS**, [*Journal of Applied Remote Sensing*](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing)
+
 
 ## Project：
 
-* Host the China Postdoctoral Science Foundation under Grant, the Natural Science Basic Research Plan in Shaanxi Province of China under Grant, the Postdoctoral Science Foundation of Shaanxi Province (First-class), etc.
+* Host the National Natural Science Foundation of China under Grant 62401434, the China Postdoctoral Science Foundation under Grant 2023M732742, the Natural Science Basic Research Plan in Shaanxi Province of China under Grant 2024JC-YBQN-0641, the Guangdong Basic and Applied Basic Research Foundation under Grant 2023A1515110504, the Postdoctoral Science Foundation of Shaanxi Province (First-class) under Grant 2023BSHYDZZ97, the Climbing Program of National Space Science Center under Grant E3PD40013S, etc.
 
 * Participate in the major project of Science and Technology Innovation 2030 "New Generation Artificial Intelligence": "Intelligent processing of rapid and accurate segmentation, detection, positioning, tracking and identification of multi-source heterogeneous sensing objects", etc. 
 
 ## Award
 
+* Excellent doctoral's degree dissertations of Shaanxi Province, 2022.11
+* Excellent doctoral's degree dissertations of Xidian University, 2022.04
 * Jiuzhang Talent Program of the CAS National Space Science Center, 2022.09
 * Outstanding Graduate of Shaanxi Province, 2022.06   
 * Outstanding Graduate Cadre of Xidian University, 2022.06       
