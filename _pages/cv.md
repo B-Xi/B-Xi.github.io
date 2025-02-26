@@ -62,8 +62,8 @@ redirect_from:
 
 ## Award
 
-* Excellent doctoral's degree dissertations of Shaanxi Province, 2022.11
-* Excellent doctoral's degree dissertations of Xidian University, 2022.04
+* Excellent doctoral's degree dissertations of Shaanxi Province, 2024.11
+* Excellent doctoral's degree dissertations of Xidian University, 2024.04
 * Jiuzhang Talent Program of the CAS National Space Science Center, 2022.09
 * Outstanding Graduate of Shaanxi Province, 2022.06   
 * Outstanding Graduate Cadre of Xidian University, 2022.06       
