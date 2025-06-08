@@ -8,17 +8,17 @@ main:
     url: /reasearch/   
 
   - title: "Publications"
-    url: /publist/
+    url: /publications/
   
   - title: "Datasets"
     url: "#"
     children:
       - title: "Mars-Seg"
-        url: /datacode/Dataset_Mars-Seg/
+        url: /datasets/Mars-Seg/
       - title: "ZSMars"
-        url: /datacode/ZSMars/
+        url: /datasets/ZSMars/
       - title: "HyMars"
-        url: /datacode/HyMars/
+        url: /datasets/HyMars/
   
   - title: "Code"
     url: /code/
