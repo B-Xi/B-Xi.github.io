@@ -1,6 +1,6 @@
 ---
-permalink: /reasearch/
-title: "My Reasearch Topic"
+permalink: /research/
+title: "My Research Topic"
 author_profile: true
 redirect_from: 
   - /md/
