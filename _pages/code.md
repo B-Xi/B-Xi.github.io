@@ -5,4 +5,4 @@ permalink: /code/
 author_profile: true
 ---
 
-You can find the source code at [https://github.com/B-Xi](https://github.com/B-Xi)
+The source codes of the publications can be found at [https://github.com/B-Xi](https://github.com/B-Xi)
