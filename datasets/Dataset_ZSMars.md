@@ -1,5 +1,5 @@
 ---
-permalink: /datacode/ZSMars/
+permalink: /datasets/ZSMars/
 title: "ZSMars"
 author_profile: true
 redirect_from: 

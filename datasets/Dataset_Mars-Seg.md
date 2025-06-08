@@ -1,5 +1,5 @@
 ---
-permalink: /datacode/Dataset_Mars-Seg/
+permalink: /datasets/Mars-Seg/
 title: "Mars-Seg"
 author_profile: true
 redirect_from: 
