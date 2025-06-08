@@ -9,11 +9,37 @@ main:
 
   - title: "Publications"
     url: /publist/
+  
+  - title: "Datasets"
+    url: "#"
+    children:
+      - title: "Mars-Seg"
+        url: /datacode/Dataset_Mars-Seg/
+      - title: "ZSMars"
+        url: /datacode/ZSMars/
+      - title: "HyMars"
+        url: /datacode/HyMars/
+  
+  - title: "Code"
+    url: /code/
  
-  - title: "Data & Code"
-    url: /datacode/
+  # - title: "Data & Code"
+  #   url: /datacode/
+  #   children:
+  #     - title: "Dataset_Mars-Seg"
+  #       url: /datacode/datasets/
+  #     - title: "Source Code"
+  #       url: /datacode/code/
+  # - title: "Data & Code"
+  #   url: /datacode/
+  #   children:
+  #     - title: "Dataset_Mars-Seg"
+  #       url: /datacode/datasets/
+  #     - title: "Source Code"
+  #       url: /datacode/code/
 
   
+
   # - title: "Education Experience"
   #   url: /teaching/
 

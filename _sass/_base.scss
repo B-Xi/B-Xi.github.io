@@ -313,3 +313,51 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+
+
+
+
+/* 下拉菜单基础样式 */
+.dropdown {
+  position: relative;
+}
+
+.dropdown-content {
+  display: none; /* ✅ 默认隐藏 */
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #ffffff;
+  min-width: 180px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+
+  /* ✅ 注意：不要在这里设置 display: flex，会导致加载即显示 */
+}
+
+.dropdown-content li {
+  width: 100%; /* ✅ 每项独占一行 */
+}
+
+.dropdown-content li a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: #333;
+  white-space: nowrap; /* ✅ 防止文字换行 */
+}
+
+.dropdown-content li a:hover {
+  background-color: #f0f0f0;
+}
+
+/* ✅ 鼠标悬停时显示菜单，采用 flex 垂直排列 */
+.dropdown:hover .dropdown-content {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
