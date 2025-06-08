@@ -13,9 +13,11 @@ We proposed three datasets for Mars exploration, including scenes from Holden Cr
 
 ### Citation of papers
 
-If it is helpful for your work, please cite this dataset:
+If it is helpful for your work, please cite this dataset and the corresponding paper:
 
 Bobo Xi, Yun Zhang, Jiaojiao Li, et al. HyMars: Mars Hyperspectral Image Classification Benchmark Datasets[DS/OL]. V2. Science Data Bank, 2025[2025-06-03]. https://cstr.cn/31253.11.sciencedb.19732. CSTR:31253.11.sciencedb.19732.
+
+Bobo Xi, Yun Zhang, Jiaojiao Li, Tie Zheng, Xunfeng Zhao, Haitao Xu, Changbin Xue, Yunsong Li, Jocelyn Chanussot, "MCTGCL: Mixed CNN-Transformer for Mars Hyperspectral Image Classification With Graph Contrastive Learning," IEEE Transactions on Geoscience and Remote Sensing, 2025, 60: 1-14. DOI: 10.1109/TGRS.2025.3529996. 
 
 ### [Science Data Bank Download Link](https://www.scidb.cn/en/detail?dataSetId=4ff0774d45464f239a73f37796f7a786)
 
