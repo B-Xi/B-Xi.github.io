@@ -1,5 +1,5 @@
 ---
-permalink: /datacode/HyMars/
+permalink: /datasets/HyMars/
 title: "HyMars"
 author_profile: true
 redirect_from: 
