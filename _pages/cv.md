@@ -25,6 +25,8 @@ redirect_from:
 
 * **IEEE T-PAMI**，[*IEEE Transactions on Pattern Analysis and Machine Intelligence*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 
+* **IEEE T-IP**，[*IEEE Transactions on Image Processing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
+
 * **IEEE T-NNLS**，[*IEEE Transactions on Neural Networks and Learning Systems*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
 
 * **IEEE T-CSVT**，[*IEEE Transactions on Circuits and Systems for Video Technology*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76)
