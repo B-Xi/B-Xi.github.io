@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an associate professor (on the tenure track) at [School of Telecommunications Engineering](https://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), and also a member of [the State Key Laboratory of Integrated Service Networks](https://isn.xidian.edu.cn/).
+I'm currently an associate professor at [School of Telecommunications Engineering](https://ste.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/), and also a member of [the State Key Laboratory of Integrated Service Networks](https://isn.xidian.edu.cn/).
 
 I am also a Research Associate in the [National  Space Center of the Chinese Academy of Sciences (CAS)](http://english.nssc.cas.cn/). (Jiuzhang Talent Program, Part-time) 
 
@@ -25,6 +25,10 @@ My research interests include but not only limiting to
 * Deep learning and pattern recognition
 
 <font size = 5 color = blue face=STKaiti>News!</font>
+
+* [2025/04] One paper titled **A Multimodal Cross-domain Segmentation Network of Remote Sensing Imagery With Multilevel Deep Cross-Fusion and Adversarial Domain Adaptation** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10994833/)
+
+* [2025/03] One paper titled **HyperTaFOR: Task-Adaptive Few-Shot Open-Set Recognition With Spatial-Spectral Selective Transformer for Hyperspectral Imagery** accepted by [IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11071942/)
 
 * [2025/02] One paper titled **HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data** accepted by [IEEE TGRS](https://doi.org/10.1109/TGRS.2025.3545926)
 
