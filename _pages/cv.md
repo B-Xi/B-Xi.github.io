@@ -16,7 +16,7 @@ redirect_from:
 * Awarded the China Scholarship Council (CSC) grant in 2021-2022, remotely supervised by Prof. Jocelyn Chanussot (IEEE Fellow)
 
 ## Editorial activity
-
+* **Editorial Board** [*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing SCI Q2*](https://www.grss-ieee.org/wp-content/uploads/2025/07/JSTARS_CfP_Advanced_Signal_Processing_Techniques_for_Spaceborne_Sensors_Innovations_and_Applications_updated.pdf) since 2025
 * **Editorial Board** [*Remote Sensing SCI Q2*](https://www.mdpi.com/journal/remotesensing/special_issues/KVCSC58HQ0) since 2022
 * **Editorial Board** [*Frontiers in Remote Sensing*](https://www.frontiersin.org/my-frontiers/overview) since 2022
 
