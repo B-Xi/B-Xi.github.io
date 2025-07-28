@@ -26,6 +26,10 @@ My research interests include but not only limiting to
 
 <font size = 5 color = blue face=STKaiti>News!</font>
 
+* [2025/07] One paper titled **SemiBaCon: Semi-Supervised Balanced Contrastive Learning for Multimodal Remote Sensing Image Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/11080399)
+
+* [2025/07] One paper titled **DSNet: Dynamic Stitchable Neural Network for Hyperspectral Image Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/11080652)
+
 * [2025/04] One paper titled **A Multimodal Cross-domain Segmentation Network of Remote Sensing Imagery With Multilevel Deep Cross-Fusion and Adversarial Domain Adaptation** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/abstract/document/10994833/)
 
 * [2025/03] One paper titled **HyperTaFOR: Task-Adaptive Few-Shot Open-Set Recognition With Spatial-Spectral Selective Transformer for Hyperspectral Imagery** accepted by [IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11071942/)
