@@ -60,6 +60,8 @@ redirect_from:
 
 * **Elsevier ESWA**, [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 
+* **Elsevier EAAI**, [*Engineering Applications of Artificial Intelligence*](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+
 * **Scientific Reports**, [*Scientific Reports*](https://www.nature.com/srep/)
 
 * **Elsevier ASOC**, [*Applied Soft Computing*](https://www.sciencedirect.com/journal/applied-soft-computing/)
