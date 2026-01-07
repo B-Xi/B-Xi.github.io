@@ -76,15 +76,13 @@ redirect_from:
 * Participate in the major project of Science and Technology Innovation 2030 "New Generation Artificial Intelligence": "Intelligent processing of rapid and accurate segmentation, detection, positioning, tracking and identification of multi-source heterogeneous sensing objects", etc. 
 
 ## Award
-
+* the Young Talent Support Program of Xi’an City Association for Science and Technology, 2025.05
 * Excellent doctoral's degree dissertations of Shaanxi Province, 2024.11
 * Excellent doctoral's degree dissertations of Xidian University, 2024.04
 * Jiuzhang Talent Program of the CAS National Space Science Center, 2022.09
 * Outstanding Graduate of Shaanxi Province, 2022.06   
 * Outstanding Graduate Cadre of Xidian University, 2022.06       
 * The 5th "Internet +" College Students Innovation and Entrepreneurship Competition, National Gold Award, 2019.09
-* National scholarship for graduate student, 2018.09      
-* The 3rd "Internet +" College Students Innovation and Entrepreneurship Competition, National Silver Award/Shaanxi Province Gold Award, 2017.09       
-
+* National scholarship for graduate student, 2018.09 
 
 
