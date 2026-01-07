@@ -26,6 +26,15 @@ My research interests include but not only limiting to
 
 <font size = 5 color = blue face=STKaiti>News!</font>
 
+* [2025/12] One paper titled **Text-Assisted Multi-Modal Adaptive Registration and Fusion Classification Network** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/11318657)
+
+* [2025/11] One paper titled **TranSTD: A Wavelet-Driven Transformer-Based SAR Target Detection Framework With Adaptive Feature Enhancement and Fusion** accepted by [IEEE JSTARS](https://ieeexplore.ieee.org/document/11275702)
+
+* [2025/10] One paper titled **HyperCASR: Spectral-Spatial Open-Set Recognition With Category-Aware Semantic Reconstruction for Hyperspectral Imagery** accepted by [IEEE TIP](https://ieeexplore.ieee.org/document/11247869)
+
+* [2025/08] One paper titled **DIFTransNet: Dual-Branch Interactive Fusion Network With CNN and Multiscale Transformer for Infrared Small Target Detection** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/11146876/)
+
+
 * [2025/07] One paper titled **SemiBaCon: Semi-Supervised Balanced Contrastive Learning for Multimodal Remote Sensing Image Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/11080399)
 
 * [2025/07] One paper titled **DSNet: Dynamic Stitchable Neural Network for Hyperspectral Image Classification** accepted by [IEEE TGRS](https://ieeexplore.ieee.org/document/11080652)
