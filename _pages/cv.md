@@ -19,6 +19,7 @@ redirect_from:
 * **Editorial Board** [*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing SCI Q2*](https://www.grss-ieee.org/wp-content/uploads/2025/07/JSTARS_CfP_Advanced_Signal_Processing_Techniques_for_Spaceborne_Sensors_Innovations_and_Applications_updated.pdf) since 2025
 * **Editorial Board** [*Remote Sensing SCI Q2*](https://www.mdpi.com/journal/remotesensing/special_issues/KVCSC58HQ0) since 2022
 * **Editorial Board** [*Frontiers in Remote Sensing*](https://www.frontiersin.org/my-frontiers/overview) since 2022
+* **Editorial Board** [*Journal of Beijing Institute of Technology*](https://journal.bit.edu.cn/jbit/news/38) since 2025
 
 
 ## Reviewer
@@ -33,6 +34,8 @@ redirect_from:
 
 * **IEEE T-GRS**，[*IEEE Transactions on Geoscience and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
 
+* **IEEE TAES**，[*IEEE Transactions on Aerospace and Electronic Systems*]( https://ieee-aess.org/publications/taes)
+
 * **IEEE J-STARS**，[*Journal of Selected Topics in Applied Earth Observations and Remote Sensing*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443)
 
 * **IEEE GRSL**, [*IEEE Geoscience and Remote Sensing Letters*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859)
@@ -45,15 +48,25 @@ redirect_from:
 
 * **Elsevier INFFUS**, [*Information Fusion*](https://www.sciencedirect.com/journal/information-fusion)
 
+* **Elsevier NN**, [*Neural Networks*](https://www.sciencedirect.com/journal/neural-networks)
+
 * **Elsevier PR**, [*Pattern Recognition*](https://www.sciencedirect.com/journal/pattern-recognition)
 
+* **Elsevier SRS**, [*Science of Remote Sensing*](https://www.sciencedirect.com/journal/science-of-remote-sensing)
+
 * **Elsevier Neurocomputing**, [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing)
+
+* **Elsevier KBS**, [*Knowledge-based Systems *](https://www.sciencedirect.com/journal/knowledge-based-systems)
 
 * **Elsevier ESWA**, [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 
 * **Scientific Reports**, [*Scientific Reports*](https://www.nature.com/srep/)
 
+* **Elsevier ASOC**, [*Applied Soft Computing*](https://www.sciencedirect.com/journal/applied-soft-computing/)
+
 * **SPIE JARS**, [*Journal of Applied Remote Sensing*](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing)
+
+* **MDPI RS**, [*Remote sensing*](https://www.mdpi.com/journal/remotesensing)
 
 
 ## Project：
