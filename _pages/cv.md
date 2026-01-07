@@ -56,7 +56,7 @@ redirect_from:
 
 * **Elsevier Neurocomputing**, [*Neurocomputing*](https://www.sciencedirect.com/journal/neurocomputing)
 
-* **Elsevier KBS**, [*Knowledge-based Systems *](https://www.sciencedirect.com/journal/knowledge-based-systems)
+* **Elsevier KBS**, [*Knowledge-based Systems*](https://www.sciencedirect.com/journal/knowledge-based-systems)
 
 * **Elsevier ESWA**, [*Expert Systems With Applications*](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 
