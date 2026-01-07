@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+More publications can be found at [*Google scholar*](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=en)
 1. **Bobo Xi**, Jiaojiao Li, Yunsong Li, Rui Song, Danfeng Hong, Jocelyn Chanussot. Few-shot Learning With Class-Covariance Metric for Hyperspectral Image Classification[J]. IEEE Transactions on Image Processing, 2022, 31: 5079-5092. (SCI: 000835774000008, EI: 20223312567144) (SCI,Q1 IF: 10.6)
 2. **Bobo Xi**, Jiaojiao Li, Yunsong Li, Rui song, Yuchao Xiao, Qian Du, Jocelyn Chanussot. Semi-supervised Cross-scale Graph Prototypical Network for Hyperspectral Image Classification[J]. IEEE Transactions on Neural Networks and Learning Systems, 2023, 34(11): 9337-9351. (SCI: 000773236200001, EI: 20221311864439) (SCI,Q1 IF: 14.255)
 3. **Bobo Xi**, Jiaojiao Li, Yan Diao, Yunsong Li, Zan Li, Yan Huang, Jocelyn Chanussot. DGSSC: A Deep Generative Spectral-Spatial Classifier for Imbalanced Hyperspectral Imagery[J]. IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(4): 1535-1548. (SCI: 000970594600004, EI: 20224413035399) (SCI,Q1  IF: 8.4)
